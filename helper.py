@@ -22,4 +22,4 @@ def write_to_file(arr, category, website):
         for elem in arr:
             f.write((elem[0] + '\n' + elem[1] + '\n'))
             num_of_articles += 1
-    print('{num_of_articles} articles of {category} category scraped from {website}\n')
+    print(f'{num_of_articles} articles of {category} category scraped from {website}\n')
