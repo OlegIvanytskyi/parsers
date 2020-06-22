@@ -2,7 +2,10 @@ import requests
 from bs4 import BeautifulSoup, SoupStrainer
 
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+from webdriver_manager.chrome import ChromeDriverManager
+
+# use of webdriver
+# driver = webdriver.Chrome(ChromeDriverManager().install())
 
 import re
 import json
@@ -22,3 +25,4 @@ def write_to_file(arr, category, website):
             f.write((elem[0] + '\n' + elem[1] + '\n'))
             
     print(f'{len(arr)} articles of {category} category have been scraped from {website}\n')
+    print('______________________________________________________________________________')
