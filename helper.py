@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
-# use of webdriver
+# use of webdriver (paste the following line into the code)
 # driver = webdriver.Chrome(ChromeDriverManager().install())
 
 import re
