@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup, SoupStrainer
 
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
 # use of webdriver
@@ -21,8 +22,8 @@ def write_to_file(arr, category, website):
     pathlib.Path(path).mkdir(parents=True, exist_ok=True)
     
     with codecs.open(path + 'new.txt', 'w', 'utf8') as f:
-        for elem in arr:  # elem - contains teaser_headline and teaser itself
-            f.write((elem[0] + '\n' + elem[1] + '\n'))
+        for line in arr:
+            f.write((line + '\n'))
             
     print(f'{len(arr)} articles of {category} category have been scraped from {website}\n')
     print('______________________________________________________________________________')
