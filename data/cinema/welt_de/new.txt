@@ -978,6 +978,8 @@ Film „Born to be Blue“  In Chet Bakers Leben war die Musik ein Irrtum
 Eigentlich ist das traurige Leben des Jazztrompeters und Sängers Chet Baker nicht verfilmbar. Nun spielt ihn Ethan Hawke in „Born to be Blue“ und zeigt, was seine Musik war: ein trostloses Nichts.
 Video Trailer  „The Putin Interviews“
 Putin hautnah: Für „The Putin Interviews“ hat US-Regisseur Oliver Stone den russischen Präsidenten über zwei Jahre hinweg mehr als ein Dutzend Mal getroffen und gesprochen. Sehen Sie hier den Trailer.
+Video Kinotrailer  „Free Speech“
+Was ist gesprochenes Wort? Für den Film „Free Speech“ hat Regisseur Tarquin Ramsay Aktivisten, Künstler und Philosophen zum Schutz der Privatsphäre, zu Meinungs- und Informationsfreiheit befragt.
 Video Kinotrailer  „In Zeiten des abnehmenden Lichts“
 „In Zeiten des abnehmenden Lichts“ ist die Verfilmung des gleichnamigen Bestsellers von Eugen Ruge über eine ostdeutsche Großfamilie, die den Zusammenbruch der DDR erlebt. Sehen Sie hier den Trailer.
 Film Cannes-Sieger  „Wir schauen halt gerne Affen zu“
@@ -1074,8 +1076,6 @@ Video Kinotrailer  „Ghost in the Shell“
 Die Cyborg Major kämpft gegen Verbrecher. Auf der Jagd nach dem Terroristen Kuze erfährt sie, dass die Wissenschaftler, die geschaffen haben, eigentlich ihr Leben geraubt haben.
 Film Horrorfilm „Life“  Das ist ja nicht zum Aushalten! Es ist das Grauen!
 Weltall, Monsterseeanemonen und der sichere Tod: Unser Autor hat den Scifi-Horrorfilm „Life“ mit Jake Gyllenhall gesehen und wurde mit all seinen Urängsten konfrontiert. Versuch einer Aufarbeitung.
-Video Kinotrailer  „Gaza Surf Club“
-In der Dokumentation „Gaza Surf Club“ von Philip Gnadt erkämpfen sich palästinensische Wellenreiter in einer der konfliktreichsten Region der Welt eigene Freiräume.
 Video Kinotrailer  „A United Kingdom“
 Der Prinz von Botswana, Seretse Khama, verliebt sich Ende der 1940er Jahre auf einer Englandreise in die Londoner Büroangestellte Ruth Williams. Diese Liebe sorgt in der jeweiligen Heimat für Aufregung.
 Video Kinotrailer  „Die versunkene Stadt Z“
@@ -1174,6 +1174,8 @@ Video Kinotrailer  Wie „NOMA“ zum besten Restaurant der Welt wurde
 Dreimal nacheinander wurde das „Noma“ zum besten Restaurant der Welt gekürt - ein Norovirus verhinderte zunächst die vierte Ehrung. Die Doku von Pierre Deschamps beleuchtet Auf- und Abstieg des Sternerestaurants.
 Video Kinotrailer  „Madame Christine und ihre unerwarteten Gäste“
 Nichts stört die gutbürgerliche Idylle von Christine und Pierre - bis Dauerfrost und Minusgrade Frankreich einfrieren lassen. Die Regierung beschlagnahmt Wohnraum. Christine und Pierre müssen zusammenrücken.
+Film Düstere Film-Vision  Was passiert, wenn der Grenzer einen Flüchtling umbringt?
+Deutschland in einer nicht so fernen Zukunft: Im Thriller „Volt“ mit Benno Fürmann hat das Land seine Grenzen dicht gemacht. Der Film ist eine beängstigende Vision, die sich nur allzu real anfühlt.
 „Timm Thaler“  Dürfen wir vorstellen: der Teufel!
 Justus von Dohnányi hat schon diversen Nazis Statur gegeben. Jetzt darf er in der Verfilmung des Kinderbuchklassikers „Timm Thaler“ der ultimative Bösewicht sein. Eine Begegnung mit dem Leibhaftigen.
 Video Trailer  „Santa Clarita Diet“ auf Netflix
@@ -1270,8 +1272,6 @@ Film Ken Loach  „Ja, in England verhungern Menschen“
 Trotz des Brexit bleibt der linke Regisseur Ken Loach kämpferisch. Sein neuester Film „Ich, Daniel Blake“ wird heiß debattiert, und sein Lieblingsverein hat einen reichen Investor abblitzen lassen.
 Video Kinotrailer  „Robbi, Tobbi und das Fliewatüüt“ - Fantasievolle Familienkomödie
 Ein Kinderbuchklassiker kommt in die Kinos: Der elf Jahre alte Tobbi trifft auf den Roboter Robbi. Zusammen entwerfen die beiden Freunde ein Gefährt, das fliegen, schwimmen und fahren kann.
-Video Kinotrailer  „Die Hände meiner Mutter“ - Drama um Missbrauch
-Markus wurde als Kind von seiner Mutter missbraucht. Als er mit 39 Jahren mit seiner Frau und seinem Sohn auf einer Familienfeier ist, holt ihn die Vergangenheit ein und er bricht das Schweigen.
 Video Kinotrailer  Das Wunder vom Hudson River in „Sully“
 Ein Passagierflieger landet auf dem Hudson River. In „Sully“ wird die Geschichte dahinter erzählt: Der Pilot wird als Held gefeiert und muss sich gleichzeitig in einer Untersuchung rechtfertigen.
 Video Trailer  „The Captive“ auf Netflix
@@ -1468,6 +1468,8 @@ Video Kinotrailer  „Collide“ - Anschnallen!
 In „Collide“ rasen Autos mit quietschenden Reifen durch gemütliche Eifelstädtchen und über deutsche Autobahnen. Dabei knallt, kracht und explodiert es gewaltig. Der Grund ist Caseys Freundin.
 Video Kinotrailer  "Maggies Plan" - Schräge New-York-Komödie
 Maggies Beziehungen halten nie länger als sechs Monate. Trotzdem möchte die Mittdreißigerin Mutter werden, zur Not alleine. Da lernt Maggie John kennen. Zunächst scheint alles perfekt.
+Video Kinotrailer  Ein Dackel geht auf Reisen - „Wiener Dog“
+Ein Dackel geht auf Reisen und wechselt Besitzer: In „Wiener Dog“ hilft ein kleiner Hund mehreren Menschen, die nach etwas Mehr in ihrem Leben suchen.
 Video Kinotrailer  Die Schweiz im Ausnahmezustand - „Heimatland“
 Eine Wolke legt sich über die Schweiz: Der drohende Sturm bringt das Beste und Schlechteste in den Menschen hervor. Zehn Regisseure erzählen Episoden über den Ausnahmezustand des „Heimatlands“.
 Video Kinotrailer  Pets - das geheime Leben der Haustiere
@@ -1564,8 +1566,6 @@ Film Musikfilm „Sing Street“  Sie sind verliebt? Dann gründen Sie eine Band
 John Carney hat wieder einen Musikfilm in Dublin gedreht. „Sing Street“ spielt 20 Jahre vor „Once“ und feiert die Achtziger, als noch Bands gegründet wurden – und Pop etwas für junge Leute war.
 Film „Warcraft“  Das erste PC-Spiel, aus dem ein super Film wurde
 Kino und Videospiele waren bisher wie Feuer und Wasser. David Bowies Sohn Duncan Jones könnte das mit seiner Verfilmung „Warcraft: The Beginning“ nun ändern – und uns nebenbei mit den Orks versöhnen.
-Pop Miles Davis zum 90.  Jazz? Was für ein Jazz?
-Zum 90. Geburtstag wird nicht nur Miles Davis neu entdeckt, sondern auch der Jazz. Der Hipster wird im Film gefeiert, die Musik auf einem Album in die Gegenwart getragen. Der Jubilar wäre glücklich.
 Video Alien-Invasion  Das ist der neue fünfminütige Trailer zu „Independence Day 2“
 Zwanzig Jahre nach der ersten Alien-Invasion sind die Außerirdischen zurück. Nach mehreren Trailern zu „Independence Day 2“ wurde nun erstmals eine längere Vorschau veröffentlicht.
 Video Kinotrailer  "Sing Street"- "Rock 'n' Roll bedeutet Risiko"
@@ -1664,6 +1664,8 @@ Video Kinotrailer  Die Neuauflage vom „Dschungelbuch“
 Nach dem Original von 1967 kommt nun das berühmte „Dschungelbuch“ neu verfilmt in die Kinos. Die Geschichte ist allbekannt, aber technisch ist nichts beim Alten geblieben.
 Film Dänemark  „Niemand will hier Deutsche sehen“
 Nach dem 2. Weltkrieg war der Hass in Dänemark auf die deutschen Besatzer sehr groß. Martin Zandvliets Film „Unter dem Sand“ erinnert daran, wie sich die Dänen an deutschen Kriegsgefangenen rächten.
+Film „Anhedonia“  Wenn nichts im Leben passiert, bring Dich doch um
+Robert Stadlober imitiert in Patrick Siegfried Zimmers Debütfilm „Anhedonia“ einen balzenden Vogel. Das ist schon mal was. Dann gibt es noch einen Irrenarzt. Und irgendwann ist der Film vorbei.
 Video Kinotrailer  „Ein Mann namens Ove“
 Bereits das Buch hat Millionen Leser zum Lächeln gebracht und zu Tränen gerührt. Rolf Lassgård ist die Idealbesetzung für den grantelnden Ove - nicht zuletzt danke seiner robusten Massigkeit.
 Video Kinotrailer  „Unter dem Sand“
@@ -1760,8 +1762,8 @@ Video Kinotrailer  "Der Kuaför aus der Keupstraße" - der NSU-Terror
 2004 ließ die Terrorzelle NSU vor einem Friseursalon in der Kölner Keupstraße eine Nagelbombe hochgehen. Eine Dokumentation zeichnet jetzt nach, wie die Polizei den Friseur zu Unrecht verdächtigte.
 Film „Nichts passiert“  Vorsicht vor den netten Männern. Sie lügen tödlich
 Im Strickpullover durch die Schweizer Berge: Devid Striesow verfilzt sich in Micha Lewinskys Screwballtragödie „Nichts passiert“ in einem mörderischen Lügennetz. Ein Honigkuchenpferd, das Gift grinst.
-Video Erster Teaser  Matt Damon ist zurück als „Jason Bourne“
-Nach den Snowden-Enthüllungen und der Finanzkrise in Europa ist Jason Bourne gezwungen, aus seinem Versteck zurückzukehren. Eine wilde Verfolgungsjagd von Griechenland bis nach Las Vegas beginnt.
+Video Kinotrailer  „Deadpool“ mit Ryan Reynolds
+Nachdem Wade Wilson (Ryan Reynolds) von seiner Krebserkrankung erfährt, unterzieht er sich einem riskanten Experiment im Labor des skrupellosen Ajax (Ed Skrein). Danach hat er Selbstheilungskräfte und auch gleich eine Mission.
 Video Kinotrailer  „Zoolander 2“ mit Starbesetzung
 Stars werden ermordet aufgefunden. Die Opfer haben eines gemeinsam: Mit ihrem letzten Atemzug haben sie noch ein Selfie mit „Blue Steel“-Blick gemacht. Nur zwei Menschen können beim Lösen des Mysteriums helfen.
 Video Kinotrailer  Die unterschiedlichen „Sisters“
@@ -1854,6 +1856,10 @@ Video Kinotrailer  „The Danish Girl“ - Transsexualität in den Zwanziger Jah
 Die Maler Einar und Gerda führen in den Zwanziger Jahren eine bewegtes Künstlerleben. Als Einar als Modell einspringen muss, und sich als Frau verkleidet, spürt er seine wahre Identität erwachen.
 Video Kinotrailer  „Legend“ - Gangster-Drama um ein Zwillingspaar
 Die Zwillinge Reggie und Ronnie Kray dominieren die Unterwelt Londons der 60er Jahre. Reggie hat es mit seinem cholerischen Bruder schwer. Das Gangsterpaar wird zur Legende.
+Video Kinotrailer  „Lichtgestalten“ - Liebesdrama um einen Neuanfang
+Ein Berliner Paar steht vor dem radikalen Neubeginn. Wie fühlt es sich an, neue Freiheit zu erlangen? Ein Film über den Mut neue Wege zu gehen.
+Video Kinotrailer  „Je suis Charlie“ - Dokumentation des Terroranschlags
+Der Dokumentarfilm „Je suis Charlie“ rekonstruiert den Terroranschlag in Paris. Islamistische Extremisten stürmten die Redaktion der Satirezeitschrift „Charlie Hebdo“. Zwölf Menschen kamen ums Leben.
 Video ZDF-Serie  „Morgen hör ich auf“ mit Bastian Pastewka
 Es ist soweit, die ZDF-Miniserie „Morgen hör ich auf“ mit Bastian Pastewka startet. Im Vorfeld wurde die Serie mit dem US-Hit „Breaking Bad“ verglichen – sehen Sie hier den Trailer.
 Kultur "Das Erwachen der Macht"  Was an „Star Wars“ nervt? Das sagen die „Welt“-Leser
@@ -1952,6 +1958,8 @@ Video Kinotrailer  „Ewige Jugend“ - Sorrentinos melancholisches Meisterwerk
 Zwei alte Freunde - gespielt von Michael Caine und Harvey Keitel - verbringen Wellness-Tage in den Schweizer Alpen. Gemeinsam beobachten sie die anderen Gäste und stellen sich großen Lebensfragen.
 Film „Stonewall“  Ein Landei aus Kansas erfindet die „Gay Power“
 Der Film zum Coming-Out: Roland Emmerichs „Stonewall“ verwässert ein historisches Ereignis zum Mittelklassen-Melodram. Sein Versuch, einen schwulen Ursprungsmythos zu kreieren, überzeugt nicht wirklich.
+Film Dokumentarfilm  Chuck Norris gegen Ceausescu – wer gewinnt wohl?
+Der Fernseher wird im Rumänien der Achtzigerjahre zum Hassobjekt: Der Bildschirm gehört Ceausescu, dem Diktator. Dann hat ein Mann eine Idee. Er baut ein Video-Netzwerk auf – mit dramatischen Folgen.
 Video Kinotrailer  Krimi-Komödie „Irrational Man“ von Woody Allen
 Ein ausgebrannter Philosophie-Professor kommt an ein Provinz-College in New England. Schnell fliegen ihm die Frauenherzen zu, doch der Professor verwandelt sich von einem Weichei zum eiskalten Killer.
 Video „Findet Dorie“  Erster Trailer zu „Nemo“-Fortsetzung ist da
@@ -2048,8 +2056,6 @@ Video Kinotrailer  Gruselspaß mit „Therapie für einen Vampir“
 Die Mischung aus Gruselstreifen und Komödie entführt ins Wien der 1930er Jahre. Ein etwas seltsamer Graf nimmt dort die Hilfe von Sigmund Freud in Anspruch. Die Vampirkomödie wartet mit einer prominent besetzten Hauptrolle auf.
 Film Alexej German  Keine Mutter ist so unbarmherzig wie Russland
 Zwei Jahre nach dem Tod seines Regisseurs kommt der Film „Es ist schwer, ein Gott zu sein“ in die deutschen Kinos. Alexej German zeigt das Totalitäre so brutal und ekelhaft wie niemand vor ihm.
-Video Western  Erster Trailer zu Tarantinos „The Hateful Eight“
-Schräge Typen und knallharte Action: Der erste Trailer zu Quentin Tarantinos achtem Film ist raus. Der Western kommt im Januar in die deutschen Kinos - bis dahin gibt es hier den Trailer.
 Film Dustin Hoffmans „Chor“  Wetten, dass Sie in diesem Film heulen müssen?
 Dustin Hoffmans Film „Der Chor“ erzählt von einem Jungen, den die Freude am Singen fit macht fürs Leben. Furchtbar kitschig – und doch muss man einfach gerührt sein. Schuld daran ist: die Musik.
 Film „Frank“  So haben Sie Michael Fassbender noch nie gesehen
@@ -2344,6 +2350,8 @@ Film „Zwei Tage, eine Nacht“  Meine Prämie gehört mir
 In „Zwei Tage, eine Nacht“ wird ein zynisches, ökonomisches Diktat sichtbar. Die Brüder Dardenne zeigen den Überlebenskampf einer Frau, die auf die Solidarität ihrer Kollegen angewiesen ist.
 Hessen Film „Ein Atem“  Europäische Probleme in einer intimen Geschichte
 Der Film „Ein Atem“ erzählt von dem Auseinanderbrechen Europas zwischen Nord und Süd, von Männer- und Frauenrollen in der Gesellschaft, von Schuld und Vergebung und von zwei unterschiedlichen Frauen.
+Film „Rad-Roadmovie“  Stirb an einem anderen Tag
+Wenn Filme das Leiden unnötig verlängern: „Hin und weg“ erzählt vom todkranken Hannes, seinen nichts ahnenden Freunden und versucht kläglich, das Thema „selbstbestimmtes Sterben“ zu thematisieren.
 Film „Coming In“  Ein bisschen bi schadet nie
 Tom ist ein schwuler Star-Friseur in Berlin-Mitte. Doch in Neukölln wird er umgedreht. Eine rasante, witzige Liebesgeschichte macht Aylin Tezel und Kostja Ullmann zum neuen Film-Traumpaar.
 Film Mariachis  Ich sing dir das Lied zum Tod
@@ -2440,8 +2448,6 @@ Meinung „Game of Thrones“  TV-Serie zeigt Vergewaltigung als Nebensächlichk
 Ein Aufschrei hallt durch die Welt der Fantasy: In „Game of Thrones“ wird vergewaltigt. Eine ganze Branche sollte sich fragen, warum sexuelle Gewalt in Filmen und Serien an der Tagesordnung ist.
 Hamburg Thriller „Zulu“  Orlando Bloom zeigt uns seine harte Seite
 In „Zulu“ spielt Orlando Bloom einen konfliktfreudigen Ermittler in Südafrika. Er unterläuft dabei gezielt sein Softie-Image, das er sich in Filmen wie „Der Herr der Ringe“ aufgebaut hat.
-Film New-York-Film  Im Zweifelsfall weiß diese Stadt immer Rat
-Cédric Klapischs Filme nimmt mit „Beziehungsweise New York“ noch einmal die Spur des Studenten Xavier aus „L’auberge espagnole“ auf. Mittlerweile ist Xavier um die 40, hat Kinder und ist getrennt.
 Kultur Bestsellerfernsehen  Wehe dem, der durchs kriminelle Wurmloch fällt
 Cornelia Lehmann hat Juli Zehs Viele-Welten-Krimi „Schilf“ verfilmt. Mark Waschke spielt sich die Seele aus dem Leib. Der fein gefilmte Thriller stürzt trotzdem mit Getöse ins dramaturgische Nirvana.
 Film „Film nach Gefühl“  Eine Osterkomödie gegen schlechte Laune
@@ -2540,6 +2546,8 @@ Film „Nebraska“  Ein Film wie ein Cover von Bruce Springsteen
 In Alexander Paynes „Nebraska“ heißt der Verlierer wieder einmal Woody. Sein Leben in der Provinz ist schwarzweiß. Und der amerikanische Traum ist eine Spam-Mail im Postkasten.
 Panorama „Der Rücktritt“  Der Film, den Christian Wulff nicht wollte
 Nico Hofmanns neuer Film heißt „Der Rücktritt“. Er dokumentiert auch das unsägliche Lavieren Wulffs in der Präsidentenaffäre, aber verzichtet dabei auf einseitige Schuldzuweisungen.
+Film London  „Lassen Sie mich Ihnen Dianas Geheimtür zeigen“
+Von der Flower Corner, wo sie Blumen kaufte, zu ihrem Restaurant am Beaucamp Place: Mit dem „Diana“-Regisseur Oliver Hirschbiegel als Fremdenführer unterwegs durch das London der Princess of Wales.
 Film „Diana“  Der Quickie der Prinzessin im Nachtschichtzimmer
 Sie ist eben nicht „The Queen“: Oliver Hirschbiegels solide filmische Annäherung an den Diana-Mythos zeigt mit einer souveränen Naomi Watts Dianas letzte Liebe zu einem pakistanischen Chirurgen.
 Medien „Die Pilgerin“  Ein moderner öffentlich-rechtlicher Abenteuerfilm
@@ -2636,8 +2644,8 @@ Film Regisseur von „Gold“  „Auch Frauen können einsam reiten“
 Auf der Berlinale wurde Thomas Arslans Western „Gold“ verhöhnt. Ein Gespräch mit dem Regisseur und seiner Cutterin Bettina Böhler über die neue Kinoversion, konstruktive Kritik und Frauen im Western.
 Film Apple-Film  Einer muss den Jobs ja machen
 In Amerika kommt „Jobs“ in die Kinos. Ashton Kutcher spielt den Apple-Gründer Steve Jobs. Klar, es geht um Computer für alle – aber was genau erschafft das junge Genie da eigentlich in seiner Garage?
-Film „Gold“  Mit Nina Hoss wird der Westen erst richtig wild
-Felsige Wälder, karge Steppen, ein paar Gitarrenklänge und Nina Hoss im Goldrausch, fertig ist der perfekte deutsche Western. Thomas Arslans „Gold“ überzeugt vor allem wegen seiner kleinen Augenblicke.
+Film „Gloria“  Das ist die Tragikomödie für Spätemanzipierte
+Eine „Unsichtbare“ emanzipiert sich: Sebastián Lelios Tragikomödie „Gloria“ beobachtet das Leben einer älteren Frau, die allen Widerständen zum Trotz die Hoffnung auf das große Glück nicht aufgibt.
 Film „Das ist das Ende“  Die Apokalypse, in der sich Hollywood selbst spielt
 James Franco, Seth Rogen und Rihanna feiern eine Hauseinweihungsparty, als in „Das ist das Ende“ plötzlich die Welt untergeht. Nicht auszuschließen, dass dies der Film des Jahres ist.
 Düsseldorf Star-Wars-Convention  Galaktische Fans und Profis mit Leidenschaft
@@ -2998,3 +3006,327 @@ Video Filmtrailer  „Gesetzlos – Die Geschichte des Ned Kelly“
 Ned Kelly war Outlaw und australischer Volksheld. Der Regisseur Gregor Jordan hat die Geschichte des Viehdiebs, Bankräubers und Polizistenmörders 2003 mit Heath Ledger in der Hauptrolle verfilmt.
 Video Trailer  „Bernauer Straße“
 Zwischen 1961 und 1989 war die Bernauer Straße ein Zentrum von einer Reihe von Fluchten und Fluchtversuchen von Berlin-Ost nach Berlin-West. Seit 1998 befindet sich hier die Gedenkstätte Berliner Mauer.
+kmpkt Film-Quiz  „Joker“ - Wie gut kennst du den verrückten Bösewicht?
+Nun ist Todd Phillips' „Joker“ auch in den deutschen Kinos. Vielleicht hast du den Film schon gesehen, aber erinnerst du dich auch noch an die frühen Zeiten des Bösewichtes? Hier kommen 10 Fragen, die nur ein echter Fan beantworten kann.
+kmpkt Frozen-Quiz  10 Fragen musst du lösen, um dein Königreich von Schnee und Eis zu befreien
+Der erfolgreichste Animationsfilm aller Zeiten bekommt eine Fortsetzung: Ende November kommt „Frozen 2“ in die Kinos. Doch wie viel weißt du noch vom ersten Teil? Nur wer es durch dieses Quiz schafft, kann den ewigen Winter beenden.
+Film „Playmobil“ im Kino  Das ist der teuerste Film des Jahres. Für Eltern
+Was Lego hunderte von Millionen einbrachte, macht jetzt auch Legos Konkurrent Playmobil: Abenteuer mit Plaste-Figuren ins Kino bringen. Notizen von einer cineastischen Achterbahnfahrt durch einen Spielzeug-Katalog.
+kmpkt Film-Quiz  10 Disney-Filme aus der Sicht des Bösewichtes - erkennst du sie?
+Disney-Filme haben unsere Kindheit verzaubert, viele ihrer Bösewichte werden heute als Ikonen gefeiert. Einige haben uns schaudern lassen, andere haben uns fasziniert. Doch wie viel weißt du (noch) über die Antagonisten der Disney-Klassiker? Teste es!
+kmpkt Alte Filme neu aufgelegt  Warum Disney in der Remake-Schleife gefangen ist
+Von „101 Dalmatiner“ bis zu „Mulan“ - Disney verarbeitet nicht nur viele seiner Zeichentrick-Klassiker in einen Realfilm. Gerade kündigten die Filmproduzenten zudem an, „Kevin – allein zu Haus“ noch mal aufzulegen. Fällt denen denn nichts Neues ein?
+Kultur Serie „The Boys“  Die Welt ist schlecht. Die Superhelden sind es auch
+Was wäre, wenn es Spider-Man und Co. tatsächlich gäbe und Marvel die Weltpolizei organisiert. „The Boys“ spielt das durch. Böse und lustig und gegenwärtig. Die Serie ist das Beste, was sich gegenwärtig streamen lässt.
+Panorama Russi Taylor gestorben  Die Stimme von Minnie Maus ist tot
+US-Schauspielerin Russi Taylor, die Jahrzehnte die Synchronstimme der Disney-Diva in Trickfilmen war, ist im Alter von 75 Jahren gestorben. Taylor hatte zu Minnie, aber auch zu Micky Maus eine ganz besondere Beziehung.
+Video Amazon-Prime-Serie  „The Boys“ - wenn Superhelden zu Schurken werden
+Die Amazon-Prime-Serie „The Boys“ zeigt, was passiert, wenn Superhelden ihre Superkräfte missbrauchen, anstatt Gutes zu tun. Die Machtlosen „The Boys“ stellen sich gegen die Übermächtigen und versuchen die Wahrheit über "The Seven" ans Licht zu bringen.
+Film „König der Löwen“  Simba, der Vegetarier
+Außen Afrika, innen Freud und Hegel: Disneys „König der Löwen“ ist ein Remake des Zeichentrickklassikers mit computeranimierten Tieren. Auch dieser Film transportiert keine Exotik, sondern alteuropäisches Denken.
+Video Gut gebrüllt?  „Der König der Löwen“ tritt in große Fußstapfen
+25 Jahre nachdem der kleine Simba im Zeichentrickfilm die Herzen der Kinozuschauer eroberte, schickt Disney nun die Neuauflage ins Rennen. Doch kann der computeranimierte Löwe genauso überzeugen?
+Gesellschaft Große Aufregung  Wieso sollte Arielle nicht schwarz sein?
+Disney plant eine Realverfilmung seines Zeichentrick-Klassikers „Arielle“. Die Hauptrolle soll die Schauspielerin Halle Bailey übernehmen. Einige Fans sind empört: Bailey hat keine roten Haare – und auch keine blasse Haut.
+kmpkt Zeichentrick-Quiz  Nur ein echter Cartoon-Fan kann diese 10 Fragen beantworten
+Wir sind mit ihnen groß geworden, haben uns in die schrillen und bunten Charaktere verliebt: Die Rede ist von Zeichentrickserien. Manche von ihnen sind mittlerweile Kult. Wie gut kennst du dich noch aus mit Tom und Jerry, den Simpsons und Asterix und Obelix? Mach den Test.
+Film „Urfin“  Der Zauberer von Ost
+In der Sowjetunion wurde aus „The Wizard of Oz“ die Saga vom „Zauberer der Smaragdenstadt“. Nun kommt der Film dazu mit einem Schurken namens Urfin in die deutschen Kinos. In der westlichen Übersetzung.
+Film Animationsfilm „Royal Corgi“  Die Kläffer der Königin
+Sie sind die Lieblinge der Queen und werden von Hundebutlern und -küchenchefs verwöhnt: Die Zeichentrickfilmer Ben Stassen und Vincent Kesteloot verwickeln in „Royal Corgi“ die Vierfüßler in absurde Abenteuer.
+kmpkt Pixar-Quiz  Diese 10 Filmzitate kennt jedes Kind - du auch?
+Wir haben Nemo gesucht, Dorie gefunden, in Toy Story Abenteuer erlebt und mit den Unglaublichen gegen das Böse gekämpft. Die Geschichten von Pixar versüßen unser Leben. Doch schaffst du es, einzelne Zitate den Filmen zuzuordnen? Teste dein Wissen!
+Film „Avengers: Endgame“  Noch nie flogen so viele Helden durchs Universum
+Ab heute geht für Superhelden-Fans mit „Avengers: Endgame“ ein Kinotraum in Erfüllung. Doch ist mit dem Endspiel wirklich Schluss? Es gibt bereits Indizien, wie es weitergehen könnte.
+Film Die Lauensteins  Die Zwillinge, die mit ihrem Oscar verschwanden
+Erst fanden sie ein komplettes Welterklärungsmodell, dann holten sie den Oscar – und dann machten sie sich 30 Jahre unsichtbar. Nun sind Christoph und Wolfgang Lauenstein mit zwei Spielfilmen zurück.
+Film Phänomen „Peppa Wutz“  Dieses Schwein geht viral. Egal, was es tut
+Genderkram, Horrortrailer und urbane Legenden: Das kleine, freche Zeichentrickferkel Peppa Wutz ist ein ganz großes globales Ding. Immer wieder löst es weltweit Chaos aus im Netz. Warum eigentlich?
+Film Tim Burtons „Dumbo“  Elefanten können gar nicht fliegen
+Für diesen Film braucht man eine dicke Haut: Der finstere Regiezauberer Tim Burton hat Disneys Klassiker „Dumbo“ neu verfilmt. Mit Danny de Vito und Colin Farrell. Und einer superguten Botschaft.
+kmpkt Hilfe für die Feiertage  Glaub uns, dieser Film passt am besten zu dir
+Weihnachtszeit ist Filmezeit. Um herauszufinden, welche du dir am besten anschauen solltest, musst du erst wissen, wer du eigentlich bist. Weißt du das, dann darfst du hier rein, dein seelenverwandter Film wartet auf dich.
+kmpkt Von wegen Kinderkram  Warum dem Animationsfilm die Zukunft gehört
+Vor 15 Jahren hat sich das Londoner Animationsfilm-Festival einem Ziel verschrieben: Trickfilme aus der Kinderecke holen. Auch dieses Jahr zeigt das Festival deswegen zehn Tage lang erwachsene, intelligente, provokative Filme. Wir waren dabei.
+Kultur Stephen Hillenburg †  Darum ist SpongeBob Schwammkopf so großartig
+Der Erfinder der Zeichentrickserie „SpongeBob Schwammkopf“ ist gestorben. Stephen Hillenburg erfand eine wunderschöne Welt auf dem Meergrund – samt protestantischer Ethik in der Krabbenburgerbraterei.
+Panorama Stephen Hillenburg  Erfinder von SpongeBob Schwammkopf gestorben
+Stephen Hillenburg, Erfinder der beliebten Zeichentrickserie „SpongeBob Schwammkopf“, ist tot. Hillenburg hat mit SpongeBob eine der bekanntesten Figuren der Zeichentrickgeschichte geschaffen. Er starb im Alter von 57 Jahren.
+Gesellschaft Magie-Strategie  „Und dann sind wir neben Disneyworld eingezogen“
+Disney gilt als die mächtigste Marke der Welt. In den USA bestimmen Micky Maus und Cinderella ganze Lebensentwürfe, Wohnorte, Berufsbilder. Hierzulande tut man sich mit der Magie des US-Konzerns noch schwer. Wie will er das ändern?
+Gesellschaft Elternleiden  „Paw Patrol“ ist spießig und reaktionär – und ich weiß alles darüber
+Seit ihr Sohn vier Jahre alt ist, schaut unsere Autorin mit ihm zusammen „Paw Patrol“, eine TV-Serie über Hundewelpen mit Helfersyndrom, und kann es nur ganz schwer ertragen. Eine Abrechnung.
+News Schuhe, Jeans, Puzzle  So viel Neues zum runden Geburtstag von Micky Maus
+1928 hatte die heute wohl berühmteste Maus der Welt ihren ersten Auftritt. Micky Maus wird im November 90 Jahre alt - ein guter Anlass für Marken, diverse Jubiläumsstücke auf den Markt zu bringen. Von Puzzle mit Ohren bis Schleifenschuh!
+kmpkt Pixar-Filmquiz  10 Fragen, die vermutlich jedes Kind beantworten kann - du auch?
+Pixars Geschichten haben unsere Kindheit, die Pubertät und das Erwachsensein versüßt. Doch wie viel weißt du (noch) über die Klassiker? Nur wer Nemo gesucht oder mit Sully kleine Kinder erschreckt hat, wird dieses Quiz bestehen können.
+kmpkt Space Jam 2  Yay! 90er-Kultfilm mit Bugs Bunny kriegt eine Fortsetzung
+Schaltet die Furbies auf stumm, krempelt die Ärmel eurer Jeanshemden hoch, und stellt den Cityroller in die Ecke – „Space Jam 2“ wird in die Kinos kommen! Und wir erzählen dir alles, was es dazu jetzt schon zu wissen gibt.
+Kultur Steve Ditko †  Spider-Mans unsichtbarer Schöpfer ist tot
+Er schuf Spider-Man und Doctor Strange, und doch kannte ihn kaum jemand. Steve Ditko blieb ein Phantom. Jetzt wurde er tot in seiner New Yorker Wohnung gefunden. Ein Nachruf auf einen der Größten.
+Kultur Comic-Zeichner Jim Davis  „Garfield versteht Donald Trump“
+Comic-Kater Garfield ist wird weltweit gelesen, ist exzentrisch und hat orangefarbenes Haar. Er hat mit dem aktuellen US-Präsidenten so einiges gemeinsam. Das findet jedenfalls sein Zeichner Jim Davis.
+Video Kinotrailer  „Luis und die Aliens“ – Abenteuer mit Außerirdischen
+Luis hat es in der Schule nicht immer leicht, weil sein Vater sich als Ufo-Experte verdingt. Als wäre das noch nicht genug, sieht sich Luis eines Tages tatsächlich mit drei extraterrestrischen Wesen konfrontiert.
+Film Regisseur Wes Anderson  „Es geht darum, den anderen auch ohne Sprache zu verstehen“
+Seit der Berlinale lieben alle den Animationsfilm „Isle of Dogs“. Ein Gespräch mit dem Regisseur Wes Anderson und seinen Mitautoren Jason Schwarzman und Roman Coppola über Spiele und japanische Geschenkrituale.
+Kultur „Avengers: Infinity War“  Verstehen kann man das nicht, man muss es wissen
+Marvels 19. Streich „Avengers: Infinity War“ ist so ungefähr der voraussetzungsreichste Film ever. Was wollen uns all die Hollywood-Stars sagen? Und wo bleiben die Propädeutika in den Multiplex-Kinos?
+Film „Early Man“  Knetmasse soll die britische Seele kitten
+Das große Kneten geht weiter: „Early Man“ heißt der neue Kinofilm der „Shaun das Schaf“-Erfinder. Es geht um Brexit, um Fußball und viel Geld. Der Fifa wird der Film nicht gefallen.
+Film „Peter Hase“-Verfilmung  Zu Ostern regnet es Hasen und Tomaten
+Ärger? Hat Großbritannien reichlich. Und jetzt kommt auch noch die Verschandelung des Kinderbuchklassikers „Peter Rabbit“ dazu. Ein schlimmer Film, wirklich. Aber doch auch irgendwie österlich.
+Film Zeichentrickfilm  Mit Biene Maja im Bombastquatsch über die Klatschmohnwiese
+Waldemar Bonsels, der Vater der Biene Maja, war ein strammer Antisemit und Nazi. Die Maja-Serie der Siebziger hat die Biene von allem Kadavergehorsam befreit. Jetzt fliegt sie wieder durchs Kino.
+kmpkt Berlinale-Quiz  10 Fragen, die dich zum Experten für Animationsfilme machen
+Wer auf der Berlinale mitreden möchte, sollte ein Animationsfilmexperte sein. Erstmals wird ein Animationsfilm zur Eröffnung gezeigt. Juhu. Animationsfilme! Aber wie gut ist dein Wissen über Shrek und Co eigentlich? Beweise es!
+Film „Loving Vincent“  Ein Film, so nostalgisch wie Europa
+„Loving Vincent“ ist der erste Film, der vollständig aus Ölgemälden besteht. Über 100 Maler haben dafür mehr als 65.000 Bilder produziert. Ein irrer Aufwand für einen konventionellen Heimatfilm.
+„Star Wars“-Plagiatsvorwurf  „Es ist nicht fair, dass Lucas sich nie zu Valerian geäußert hat“
+Der Zeichner Jean-Claude Mézières schuf 1967 den Comic „Valerian und Veronique“. Jahre später fand er viele Ideen in „Star Wars“ wieder. Warum er bis heute auf eine Erklärung von George Lucas wartet.
+Film Pixars „Coco“  Der lustigste Ausflug ins Totenreich aller Zeiten
+Versöhnen wir uns mit dem Tod, dann wird alles gut: Pixar schickt einen mexikanischen Jungen ins Jenseits, um seine Gegenwart mit der Vergangenheit zu versöhnen. Klingt schwer, nimmt’s leicht.
+Mode Helden der Kindheit  Hello Kitty und Snoopy gibt‘s jetzt zum Anziehen
+Mode darf auch ein bisschen Spaß machen: Pullover, Schuhe und Jeans werden gerade von Comicfiguren bevölkert. Die besten Stücke für alle, die gern wieder Kind wären - oder noch Weihnachtsgeschenke suchen.
+Film „Teheran Tabu“  Prostitution in Teheran, Angst in Berlin
+Der Animationsfilm „Teheran Tabu“ zeigt die sexuelle Doppelmoral im Iran. In Cannes wurde er gefeiert. Doch die Berlinale wollte ihn nicht. Standen die Festspiele unter Druck? Über ein Politikum.
+Film Geschlechterrollen  Wie divers ist der „Justice League“-Film wirklich?
+Hollywoods Comic-Blockbuster sind meist eine weiße Männerdomäne. Sensible Zuschauer werden in „Justice League“ den Versuch erkennen, das zu ändern. Aber reichen dafür Wonder Woman und ein Schwarzer?
+Kultur Len Wein  Der Künstler, der Wolverine erfand, ist tot
+Superhelden-Comics sind Kollektivprodukte, trotzdem kommt es auf die Einfälle Einzelner an: Len Wein erfand Figuren wie Wolverine und Swamp Thing. Und er verhalf Wonder Woman zu einer neuen Kraft.
+Literatur WELT-exklusiv  Asterix und der italienische Schilderwald
+Unsere letzte Vorab-Szene aus „Asterix in Italien“ zeigt: Asterix hat sich verfahren – könnte es am italienischen Schilderchaos liegen? Wie gut, dass ein berühmter Italiener die Zeichen lesen kann!
+Film „Emoji – Der Film“  Liebesgeschichte, Heldenreise, Flachwitze, Kacke
+Und plötzlich sympathisiert man sogar mit Internettrollen: Mit Schleichwerbung und Flachwitzen versucht der Animationsfilm „Emoji“ Kindern Selbstwertgefühl zu vermitteln. Das kann nur schiefgehen.
+Uncanny Valley  „Irgendwas stimmt nicht, irgendwas ist anders“
+Menschenähnliche Roboter sehen oft gruselig aus – erst recht, wenn sie sich auch noch bewegen. Der Grund ist eine Schwäche der menschlichen Wahrnehmung. Forscher konnten nun zeigen, wie sie entsteht.
+Kultur Autismus-Doku „Life, animated“  „Ich bin anders, nicht weniger“
+Als Kind hört Autist Owen Suskind auf einmal auf zu reden – und bleibt jahrelang still. Bis ihm Disney-Filme helfen, wieder eine Sprache zu finden. Nun kommt sein Schicksal selbst als Doku ins Kino.
+Gesundheit „Life, animated“  Der Junge, der fünf Jahre lang nicht sprach
+Owen Suskind ist Autist, lange schwieg er. Dann entdeckten seine Eltern, dass er ganze Disney-Filme auswendig kann. Ein Gespräch über anders begabte Kinder – und warum Loslassen so wichtig ist.
+Film „Wonder Woman“  Ist dieser Film nun sexy oder sexistisch?
+In Amerika tobt eine Debatte um die erste weibliche Kino-Superheldin „Wonder Woman“. Wie feministisch können die Abenteuer einer halb nackten Amazone sein? Ein Treffen mit Regisseurin Patty Jenkins.
+Film „Überflieger“  Der Animationsfilm des Jahres kommt aus … Berlin!
+Jeder kann ein Storch sein: Nicht alle europäischen Animationsfilme sind bieder. „Überflieger“ von Reza Memari aus Berlin ist der schönste Beweis. Wer ihn nicht sieht, ist selbst schuld.
+Video Kinotrailer  „Überflieger: Kleine Vögel – großes Geklapper“
+Die Störchin Aurora adoptiert einen frisch geschlüpften Spatz, der allein in seinem Nest ist. Spatz Richard hält sich selbst natürlich auch für einen Storch, bis diese gen Süden ziehen – ohne ihn.
+Video Kinotrailer  „The Boss Baby“ hat das Sagen
+Es ist nicht genug Liebe für die Babys da - weil alle Welt lieber Hundewelpen mag. Das Boss Baby kämpft dagegen an. Nach einigen Schwierigkeiten auch mit seinem Bruder Tim.
+Film Animationskino  Dagegen ist der deutsche Trickfilm doofer Kinderkram
+Es gibt viele Gründe, warum der deutsche Trickfilm so infantil ist. Es fehlt an Geld, an guten Animatoren und am Mut, Eltern und ihrem Erziehungsprogramm die Stirn zu bieten. Ein Blick in die Welt.
+Film Homosexueller Subtext  Wie schwul ist eigentlich Disney?
+„Die Schöne und das Biest“ kommt als Realverfilmung ins Kino. Und die Welt erregt sich über den ersten „gay moment“ in der Geschichte Disneys. Dabei waren schon die Zeichentrick-Klassiker zweideutig.
+Video Kinotrailer  Der Kinderbuchklassiker als Film - „Die Häschenschule“
+Ostern ist in Gefahr, denn die Füchse versuchen das Goldene Osterei zu stehlen. Frei nach Kinderbuch-Klassiker erzählt der Animationsfilm vom Großstadthasen Max, der in der Häschenschule landet.
+Video Kinotrailer  Oscarnominiert: „Die Rote Schildkröte“
+Der Film „Die Rote Schildkröte“ war für den Oscar nominiert: Ein Mann strandet auf einer Insel und jeder Fluchtversuch wird von einer Schildkröte verhindert. Die verwandelt sich eines Tages.
+Panorama Schwermütiger Zeichentrickfilm  „Das letzte Einhorn“ - zehn Dinge, die Erwachsene lernen können
+Wir hätten uns lange Schuljahre und viel schmerzhafte Erfahrung sparen können. Depression, Umgang mit dem Tod - der Zeichentrickfilm „The Last Unicorn“, erschienen vor 35 Jahren, hat alles schon gewusst.
+Film „Mein Leben als Zucchini“  Dieser Animationsfilm hat den Oscar im Auge
+Der Animationsfilm „Mein Leben als Zucchini“ hat jede Menge Preise abgeräumt. Jetzt geht er ins Rennen um den Oscar. Dabei haben die süßen Puppen aus Harz und Silikon bittere Geschichten zu erzählen.
+Video Kinotrailer  „Ballerina“
+Der Animationsfilm dreht sich um Félicie, die unbedingt Tänzerin werden möchte - ein großer Traum für das Waisenkind. Trotzdem wagt Félicie die Flucht aus dem Waisenhaus nach Paris, um dort einen Platz an einer renommierten Tanzschule zu bekommen.
+Fernreisen Insel Yakushima  Der feuchteste Ort Japans verzaubert nicht nur Anime-Fans
+Auf dem Arakawa-Trail in den Bergen der südjapanischen Insel Yakushima verfällt man leicht ins Fantasieren. Magischere Orte gibt es kaum. Auch für Zeichentrick-Fans ist das ein besonderer Pilgerort.
+„Watchmen“-Schöpfer  „Ich habe die Comic-Industrie satt“
+Alan Moore, einer der bedeutendsten Comic-Autoren, will sich künftig nur noch anderen Künsten widmen. Ein Gespräch über seine Heimat Northampton, Musikalben – und seine Abneigung gegen Superhelden.
+Kultur 96. Geburtstag von Ellis Kaut  Als Pumuckl mit seinem Bauch am Leimtopf klebte
+Heute wäre Ellis Kaut 96 Jahre alt geworden. Ihre Erfindung des Kobolds Pumuckl machte die Kinderbuchautorin weltberühmt. Der Wuschelkopf treibt gern Schabernack und änderte auch einmal seine Figur.
+Kultur Kurzfilm "Piper"  Sehen Sie hier Pixars neuesten Animationsfilm
+Disney-Pixar ist weltweit bekannt für die Liebe zum Detail. In "Piper" übertreffen sich die Filmemacher selbst. Mancher wird nach dem Anschauen auf eine Langversion des Kurzfilms hoffen.
+Video Im Kino  Schlangestehen für "Doctor Strange"
+Hunderte Fans wollten Benedict Cumberbatch und Tilda Swinton bei einem Fanevent zum Kinostart von „Doctor Strange“ in Berlin sehen. Dort stellten die beiden Schauspieler die Comicverfilmung vor.
+Film „Doctor Strange“  Die wahnsinnige Hochzeit von Magie und Mengenlehre
+Das ist Marvels neuer Comic-Blockbuster: Benedict Cumberbatch fliegt durch ein gefaltetes New York. Tilda Swanton trägt Glatze. Und Mads Mikkelsen ist höflich. Vom Wahnsinn namens „Doctor Strange“.
+Video Kinotrailer  „Kubo - Der tapfere Samurai“
+Sein Leben wird völlig auf den Kopf gestellt, als Kubo aus Versehen einen Geist herauf beschwört und ein Kampf zwischen Göttern und Monstern entbrannt. Es ist an Kubo, die Welt zu retten.
+Video Wolverine 3  Hugh Jackman gibt bittersüße News bekannt
+Lange war es ein Geheimnis, doch jetzt enthüllte niemand anders als Hugh Jackman selbst den Titel des neuen und dritten Wolverine-Films. Doch die Neuigkeiten sind für viele Fans bittersüß.
+Video Kinotrailer  "Sausage Party" - Es geht um die Wurst
+In diesem Film wird den Lebensmitteln eine Stimme gegeben. Im Supermarkt wollen sie unbedingt "auserwählt" werden, aber nur weil sie nicht wissen, was in der Küche mit ihnen passiert ...
+Film „Findet Dorie“  Erinnert sich noch irgendwer an Nemo?
+13 Jahre nach „Findet Nemo“ lässt Pixar wieder die Zeichentrickfische los. In „Findet Dorie“ sucht ein vergesslicher Palettendoktorfisch seine Eltern. Richtig bunt, aber nicht richtig gut.
+Literatur Mann hinter der Maske  Der Erfinder des Anonymous-Gesichts hört auf
+Der bedeutendste lebende Comic-Autor hört auf: Alan Moore will nur noch Romane schreiben und Filme drehen. Außer „Watchmen“ hinterlässt er der Welt als Erbe vor allem eine Maske, die jeder kennt.
+Kultur Sci-Fi-Architektur  Humanoide Roboter bauen die Hochhäuser der Zukunft
+Wer eine Ahnung davon bekommen will, wie wir in Zukunft leben, muss sich die Hintergründe von Anime-Filmen anschauen. Die japanischen Trickfilm-Zeichner sind Meister der futuristischen Architektur.
+Film Zeichentrickfilm „Belladonna“  Ein Meisterwerk, mit sündigem Stift gezeichnet
+Jahrzehntelang war der japanische Vergewaltigungs-Zeichentrickfilm „Die Tragödie der Belladonna“ verschollen. Nun wurde er restauriert. Es ist einer der visuell spektakulärsten Filme aller Zeiten.
+Video Kinotrailer  Restauriertes Meisterwerk - „Belladonna of Sadness“
+Der Animationsfilm von 1973 gilt als Meisterwerk seiner Gattung. Erzählt wird die Geschichte vom Liebespaar Jean und Jeanne in psychodelischen Bildern. Jetzt kommt die restaurierte Fassung in die Kinos.
+Film „Suicide Squad“  Zeig uns, wo der Hammer hängt, du Meta-Emanze!
+In der Comic-Verfilmung „Suicide Squad“ sind verrückte Schurken Superhelden. Ego-Monster, gefräßige Nihilisten gehen auf die Menschheit los. Hätte der Film zur Zeit werden können. Wurde es aber nicht.
+Video Sprechendes Obst  Dieser PR-Gag schockiert Supermarkt-Kunden
+„Sausage Party“, der neuste Animationsfilm aus den USA, handelt vom sprechenden Würstchen Frank. Mit dieser witzigen Aktion wollen die Filmemacher Aufmerksamkeit erregen. Da bleibt kein Auge trocken.
+Kultur Prinzessinnen  Disneys Neue ist eine feministische Latina
+Cinderella war vorgestern: Elena von Avalor heißt die neue Prinzessin von Disney. Sie ist eine Latina, sie ist berufstätig und hat nicht einmal einen Prinzen. Endlich eine feministische Figur.
+Panorama YouTube-Star  LeFloid würde Angela Merkel noch einmal interviewen
+Die politische Großwetterlage bringt den YouTube-Star LeFloid alias Florian Mundt zum Schreien. Zum Glück gibt es Ablenkung. Im Animationsfilm „Pets“ leiht er seine Stimme dem Meerschweinchen Norman.
+Film „Pets“ im Kino  Kein Kind wird ein Mensch ohne das Tier
+Der Animationsfilm „Pets“ erzählt die Geschichte zweier Hunde, die von ihrem Frauchen allein gelassen werden. Aber vor allem erzählt er von der Selbsterkenntnis des Menschen durch das Tier.
+Film „Ice Age 5“  Ist Scrat nicht eigentlich ein Mensch?
+In „Ice Age – Kollision voraus!“ droht der prähistorischen Welt der Untergang. Schuld ist wieder das Rattenhörnchen. Scrat hat sich zur Krone der Schöpfung im Animationskino entwickelt.
+Nordrhein-Westfalen Autor Jörg Hilbert  Der eiserne Kinderheld Ritter Rost wohnt im Ruhrpott
+Jedes Kind kennt Ritter Rost – ob als Buch oder Theaterstück. Erfunden hat die Figur der Essener Autor und Zeichner Jörg Hilbert. Ein Werkstattbesuch beim großen Unbekannten der Kinderliteratur.
+Hamburg Visual Effects  Wie Game of Thrones dieser Firma zu Weltruhm verhalf
+Was wäre die weltweite Erfolgsserie Game of Thrones ohne visuelle Effekte? Die Macher dahinter sind „Digital Artists“. Die Branche boomt – und Deutschland ist ganz vorne mit dabei.
+Video US-Kampagne  „Ice Age“-Herde wirbt für „Save the Children“
+41 Prozent der amerikanischen Familien nicht, wo sie ihr Kind wiederfinden, sollte dem Nachwuchs etwas zustoßen. Die sogenannten ICE-Cards von "Save the Children" sollen das ändern.
+Film „X-Men: Apocalypse“  Was macht der mutierte Massenmörder in Auschwitz?
+Staub zu Staub: „X-Men: Apocalypse“, Bryan Singers viertes Mutanten-Epos in 16 Jahren, lässt von der Erde und von der Reihe wenig übrig. Früher war mehr Leben in den Superhelden. Und mehr Legende.
+Panorama Wie im Disney-Film "Oben"  Häuschen in Seattle droht Abriss
+Im Zeichentrickfilm "Oben" bindet ein Opa Luftballons an sein kleines Haus, das abgerissen werden soll, und fliegt damit davon. Ein echtes "Oben"-Haus steht in Seattle. Doch ihm droht Gefahr.
+Kultur „Dschungelbuch“  „Nichts gar nichts ist echt! Das ist der Trick!“
+Jon Favreau hat einen neuen „Dschungelbuch“-Film gedreht. Für Disney, das Studio, von dem auch die legendäre Zeichentrickversion stammt. Was das mit kochen zu tun hat, erklärt er im Gespräch.
+Film „Das Dschungelbuch“  Der Knabe lebt, der Wald ist tot
+Versuchs mal mit Ungemütlichkeit: Jon Favreau verfilmt für Disney Disneys Zeichentrick-Klassiker „Dschungelbuch“ neu. Mit einem echten Mogli und Tieren aus dem Computer. Ein zwiespältiges Abenteuer.
+Kultur Superheldenkostüme  Lasst doch endlich diese unpraktischen Capes weg!
+Ikea hat ein Fledermaus-Cape für Kinder zurückgerufen, aus Sicherheitsgründen. Eine Nachricht, die für Superheldencomics ein Lichtblick sein kann: Umhänge gehören eh längst abgeschafft. Eine Glosse.
+ICONIST Charlie Cox  „Die Zeit ist reif für haarige Superhelden“
+Charlie Cox, bekannt aus der Netflix-Serie „Daredevil“, gilt als der vielleicht süßeste Blinde der Welt. Jedenfalls im Fernsehen. Wir sprachen mit dem Schauspieler über wahre Helden und Körpermoden.
+Film „Kung Fu Panda 3“  Amerika und China planen die mediale Weltherrschaft
+Der dritte Teil von „Kung Fu Panda“ ist mehr als ein Animationsfilm. In ihm vereinen sich nicht nur Kulturen, sondern auch die Geldströme von Hollywood und Shanghai. Ein Blick hinter die Kulissen.
+Video Kinotrailer  Neue Abenteuer für „Kung Fu Panda“ Po
+Kung-Fu-Meister Po findet seinen leiblichen Vater wieder, doch viel Zeit bleibt beiden nicht. Denn ein übernatürlicher Schurke aus der Geisterwelt macht Po und seinen Freunden das Leben schwer.
+Film „Zoomania“  Dieser Disneyfilm könnte Erika Steinbach helfen
+„Zoomania“ heißt der neue Disney-Film für die ganze Familie: Es ist ein Krimi, ein Buddy-Movie, Parodie auf den „Paten“ und eine herrliche Parabel auf gesellschaftliche, religiöse Verwerfungen.
+Video Kinotrailer  Zoomania
+In Disneys Animationskrimi Zoomania müssen sich ein Fuchs und Kaninchen zusammentun, um eine Verschwörung abzuwenden. Die lustigste Figur im Film ist ein Faultier, das seinem Namen alle Ehre macht.
+Film Hässlicher Superheld  Deadpool redet sogar beim Foltern und beim Sex
+Er sieht aus „wie ein Hoden mit Zähnen“ und ist bis an genau diese Zähne bewaffnet: Comicheld Deadpool bekommt 25 Jahre nach seiner Erfindung seinen ersten eigenen Film. Warum, das verrät er selbst.
+Panorama Überraschungsaktion  Neunjähriger jagt als Iron Man Gangster durch Sydney
+„Hilf uns, Iron Boy!“ Sydney hat einen Jungen mit einer Aktion im Stil der „Iron Man“-Comics überrascht. Einen Tag lang jagte er Gangster – unterstützt von Hubschraubern und einem Hollywoodstar.
+Panorama „Wonder Woman“  Gal Gadot wird zur gnadenlosen Amazonenprinzessin
+Die Schauspielerin Gal Gadot kann durch ihren zweijährigen Wehrdienst exzellent mit Waffen umgehen. Für ihren neuen Film musste sie nun auch Schwertkampf, Kickboxen, Jiu-Jitsu und Capoeira lernen.
+Film „Anomalisa“  Selbst Puppen haben existenzielle Ängste
+Regisseur und Drehbuchautor Charlie Kaufman scheint es nicht gut zu gehen. Im Animationsfilm „Anomalisa“ verarbeitet er seinen Weltschmerz mit Puppen. Warum wir uns ersthaft Sorgen um Kaufman machen.
+Video „Suicide Squad“  Neuer Trailer mit den Superbösewichten aus dem Hause DC
+Es sind die irrsten Superhelden aller Zeiten - und nun müssen sie die Welt retten. Warner Bros. hat einen neuen Trailer zu "Suicide Squad" veröffentlicht. Deutscher Kinostart ist der 18. August.
+Video Asylpolitik  So erklärt Bayern Flüchtlingen das deutsche Recht
+Das bayerische Justizministerium hat ein Zeichentrick-Video ins Internet gestellt, das Flüchtlingen die Grundwerte der deutschen Verfassung erklären soll. Doch es gibt auch Kritik an dem Video.
+Wirtschaft Popkultur  Disney ist Kommerz pur – und das ist gut so!
+„Tschernobyl des Geistes“, nannte eine Schauspielerin das Pariser Eurodisney. Der Disney-Konzern wird in Europa oft verachtet. Die Wahrheit ist: Disney war immer teuflisch gut – und zuletzt genial.
+Panorama Dating mit Disney  Küss mich, Du Micky Maus!
+Disney hat Kindern weltweit eine unrealistische Vorstellung von Liebe vermittelt. Nun will ein Dating-Portal die Scherben einsammeln: Auf MouseMingle.com kann Minnie endlich ihren Micky finden.
+Video "Captain America: Civil War"  Das ist der erste Trailer zu Marvels neuem Blockbuster
+Im dritten "Captain America"-Teil werden aus Iron Man und Cap Gegner. Eine Regierungsinitative, die die Kontrolle von Superhelden anstrebt, teilt die Helden in zwei Lager. "Civil War" läuft ab dem 5. Mai im Kino.
+Video „Findet Dorie“  Erster Trailer zu „Nemo“-Fortsetzung ist da
+In der Fortsetzung von „Findet Nemo“ sucht Dorie ihre Familie. Nemo und Marlin unterstützen den vergesslichen Doktorfisch dabei. Den englischen Trailer des neuen Pixarfilms gibt es bereits.
+Film „Die Hälfte der Stadt“  Hommage ans multikulturelle, jüdische Erbe Polens
+Im polnischen Kozienice war die Hälfte der Bevölkerung jüdisch. Dann kamen die Deutschen. Alle jüdischen Spuren wurden gelöscht. Bis auf etwa 10.000 Fotos. Die bilden die Basis von Pawel Siczeks Film.
+Wirtschaft Dreamworks-Chef Katzenberg  „Warum sollte es Spielberg leichter haben als Sie?“
+Jeffrey Katzenberg zählt zu den mächtigsten Männern Hollywoods. Der Dreamworks-Chef über die Bedrohung des Kinos, Filme auf dem iPad und warum er die Apple-Attacke von Taylor Swift bewundert.
+Film Zeichentrickhelden  Hier staunt der Sigmund, und das Kino wundert sich
+Freud für die ganze Familie: Die Übernahme durch Disney brachte den Trickfilmern von Pixar dürre Jahre. „Alles steht Kopf“, die Reise in die Psyche eines Mädchens, ist ihr großes Comeback.
+Video Kinotrailer  „Alles steht Kopf“ im Kopf von Riley
+Für Riley ändert sich alles, als sie mit ihrer Familie nach San Francisco zieht. Die Eltern nerven und ihre Gefühle - in Form von fünf bunten Kobolden - spielen verrückt in ihrem Kopf.
+Video Trailer  Was die Angry Birds auf der Kinoleinwand treiben
+Auf Smartphones sind die Angry Birds seit Jahren Stars. Im nächsten Jahr sollen die bunten Vögel dann auch die Kinoleinwand erobern. Sony Pictures veröffentlichte nun den ersten Trailer.
+Film „Fantastic Four“  Wie der tote Eichinger Marvels Superhelden ruiniert
+Ein Held ist aus Stein, die Dialoge sind aus Holz, und die Story des Films „Fantastic Four“ ist strohdoof. Es liegt daran, dass ein Deutscher noch aus dem Grab Macht über die Fantastischen Vier hat.
+Film „Ant-Man“  Er ist der Homöopath unter den Superhelden
+Geht’s noch eine Nummer kleiner? Die Marvel-Comicverfilmung „Ant-Man“ mit Paul Rudd setzt neue Maßstäbe – zumindest auf subatomarer Ebene. Eine Hommage an den Minimalismus.
+Video Kinotrailer  Paul Rudd muss als „Ant-Man“ die Welt retten
+Im Jahr 1962 erschien die Figur des Ant-Man erstmals in einem Comic. Jetzt erobert der kleinste Marvel-Superheld (verkörpert von Paul Rudd) auch die große Leinwand.
+Film Ergiebige Reise  Was Walt Disney in Hitlerdeutschland wollte
+Vor 80 Jahren traf der Trickkünstler zu Besuch in Hitlerdeutschland ein. Der Führer mochte seine Filme. Aber wie tickte Walt Disney wirklich? War er, wie manchmal behauptet, ein Rassist?
+Film „Minions 3-D“  Wie vermehren sich diese Idioten eigentlich?
+Schluss mit der Fronarbeit der Minions für den finsteren Gru. Die kleinen gelben Kerle haben jetzt ihren eigenen Animationsfilm. Und das Spin-off ist lustiger als alle Vorgängerfilme: „Minions 3-D“.
+Film Tom Holland  Der neue Spider-Man ist vielen zu weiß und hetero
+Eine der aufwendigsten Castingrunden hat endlich ein Ergebnis: Der 19-jährige Brite Tom Holland schlüpft im nächsten Spider-Man-Film in das Spinnenkostüm. Einigen Fans ist das zu konventionell.
+Panorama Superheldenfilm  Tom Holland ist der neue „Spider-Man“
+Neuer Kino-Reboot des Superhelden: Der Nachfolger von Tobey Maguire und Andrew Garfield als „Spider-Man“ steht fest: Jungstar Tom Holland wird zukünftig im Spinnenkostüm zu sehen sein.
+Film Marvel-Blockbuster  „Avengers 2“ = Shakespeare + Proteinpulver
+„The Avengers 2: Age of Ultron“ ist so grandios, dass Regisseur Joss Whedon fast verrückt geworden wäre. Der Film ist voller guter Einfällen und dramaturgisch genial. Dieser Text ist spoilerfrei.
+Film Trailer  So sieht das Duell zwischen Superman und Batman aus
+Früher als geplant musste Warner Bros. den Trailer zu dem 2016 erscheinenden Film "Batman v. Superman - Dawn of Justice" veröffentlichen. Grund dafür war ein Leak im Internet. Mehr im Nachtblog.
+Video Zum 30. Geburtstag  „Zurück in die Zukunft“-Szene mit Lego nachgespielt
+Zum 30. Geburtstag des Films „Zurück in die Zukunft“, wurde eine der berühmtesten Szenen mit bunten Spielzeugsteinen umgesetzt. Fast so spannend, wie das Original.
+Film Kulturschock  Wie Computer meinem Sohn halfen, Asterix zu lieben
+Drei Millionen Franzosen irren nicht: „Asterix im Land der Götter“ ist die bisher beste Verfilmung des Gallier-Comics. Unser Autor hat ihn sich mit seinem Sohn angesehen, und sie waren sich einig.
+ICONIST Disney  Die wunderbare Glitzerwelt um den Cinderella-Film
+Der Zeichentrickfilm aus den 50ern kommt als Realverfilmung ins Kino - und Disney zelebriert dieses Ereignis mit einer eigenen Themenwelt. Von Glasschuh-Ausstellung bis Make-Up ist an alles gedacht.
+Film „Drache Kokosnuss“  Wo Fabelwesen Feuer pupsen, hat 3-D einen Sinn
+Auf einer tropischen Insel lebt der kleine Drache Kokosnuss. Die Helikoptereltern behandeln Sohnemann wie ein Kleinkind. Vor allem, weil Kokosnuss – außer im Flugzeug – immer noch nicht fliegen kann.
+ICONIST Adventskalender  Fünfzehntes Türchen - Damien Hirsts Disney-Shirt
+Vorfreude ist bekanntlich die schönste Freude. Unser Adventskalender stellt täglich fabelhafte Präsente zum Verschenken und selbst Behalten vor. Heute: Das Shirt von Damien Hirst und Marc Jacobs.
+Panorama Kunstwerk entdeckt  Die völlig verrückte Geschichte mit „Stuart Little“
+Ein Ungar schaut im Fernsehen einen alten Kinderfilm. Er entdeckt ein Gemälde, das in einer Szene an der Wand hängt – es ist ein verschollenes Meisterwerk. Jetzt wird das Bild in Budapest versteigert.
+Film „Madagascar 4“  Der erste Film über Pinguine, der Pinguine hasst
+Vier Pinguine versuchen, in James-Bond-Manier die Welt zu retten, und lassen sich dabei von den Nebenrollen die Show stehlen. Ein kindgerechter Animationsfilm mit der Stimme von Werner Herzog.
+Wirtschaft Weihnachtsgeschenke  Die Eiskönigin stößt Barbie vom Spielzeug-Thron
+Mehr als ein Jahrzehnt lang war die Barbie-Puppe in den USA das beliebteste Weihnachtsgeschenk für Mädchen. Nun haben ihr die Figuren aus dem Disney-Film „Die Eiskönigin“ den Rang abgelaufen.
+Film Ninja Turtles  Wie viel lässt sich mit Megan Fox aufwerten?
+Der Kinostart von „Teenage Mutant Ninja Turtles“ bringt wenig Neues, wenig Überraschendes und trashige Kostüme. Es ist Zeit, Schildkrötensuppe aus ihnen zu machen.
+ICONIST Neue Modelinie  Wie Micky Maus zur Modeikone wurde
+Disney-Motive haben schon seit einiger Zeit ihren Weg in die Mode gefunden. Dass Micky Maus jedoch auch mit skandinavischen Minimalismus kombinierbar ist, zeigt das dänische Label Wood Wood.
+Film Herman Schultheis  Dieser Hitler-Fan lüftet Disneys Geheimnisse
+Die heimlichen Aufzeichnungen eines Aachener Ingenieurs werfen ein neues Licht auf Disneys Zeichentrickfilme. Wer war dieser Herman Schultheis, in dem die Amerikaner einen deutschen Spion vermuteten?
+Film „Der 7bte Zwerg“  Deutsche können auch Disney
+In dieser 3-D-Animation treten sie alle auf: Dornröschen, die sieben Zwerge, der böse Wolf und Rotkäppchen. Nina Hagen spielt schrill wie gewohnt die böse Fee, und auch Otto ist wieder dabei.
+Film „Sin City 2“  Die Männer sind hart und die Frauen sind sexy
+Ungebremst aufeinandergestapelte Noir-Klischees: Die Handlung von Robert Rodriguez’ „Sin City 2“ ist ein heilloser Wirrwarr. Dafür erinnern die experimentellen Bilder mehr denn je an die Comicvorlage.
+Film Animationsfilm  Der tollkühne Künstler und seine fliegenden Kisten
+„Wenn der Wind sich hebt“ soll der letzte Film des japanischen Anime-Meisters Hayao Miyazaki sein. Darin erhebt er sich nochmals in die geliebten Lüfte – und landet auf ganz neuem Terrain.
+Medien Treffen der Giganten  Homer Simpson prügelt sich mit dem Family Guy
+Im September soll eine Crossover-Folge zwischen den „Simpsons“ und „Family Guy“ ausgestrahlt werden, in der sich die gelbe Familie und die Griffins treffen. Jetzt gibt es erste Bilder und Inhalte.
+Panorama Gay Agenda  Natürlich sind Disney-Filme schwul
+Bugs Bunny schwul? Die Eiskönigin lesbisch? Fundamentalisten fürchten, Amerikas Kinder könnten durch zu viel Akzeptanz in Disney-Filmen verdorben werden. Dabei handelten sie immer schon vom Anderssein.
+Stuttgart 21. Auflage  Tausend Streifen beim Trickfilmfestival
+„Film ab!“, heißt es ab 22. April wieder auf dem Schlossplatz. Für Fans von Animationsfilmen ist das Event eines der wichtigsten Termine des Jahres. Zehntausende Besucher werden in der Landeshauptstadt erwartet.
+Film „The Lego Movie“  Alles so super-duper hier, es ist beängstigend
+Der Held ist ein haarsträubend langweiliges Männchen, die Botschaft des Lego-Spektakels fürs Kino mehr als simpel. Warum jubeln Zuschauer und Kritiker dennoch? Sie lassen sich mit Ironie ködern.
+Panorama „South Park“-Kult  „Mehr Sex als der Bachelor, mehr Stimme als DSDS“
+Die 17. Staffel der US-Kult-Serie läuft an. Hier erklären die Synchronsprecher, warum „South Park“ für sie wie Therapie ist, wie berufsmäßiges Fluchen geht und ob die neuen Folgen gut sind.
+Film 3-D-Animation  Charlie Brown war nie rund, er ist eine Scheibe
+Im Herbst 2015 kommen die Peanuts des Comiczeichners Charles M. Schulz dreidimensional ins Kino. Den Trailer gibt es jetzt schon. Mit völlig neuen Perspektiven und mit Charlie Brown als Übermensch.
+Film „Pettersson & Findus“  Da muss das Kind in uns noch sehr klein sein
+Als der Trickfilm leben lernte: Aus den bewegten Zeichnungen des Kinderbuchs wird ein echter Pettersson mit einem animierten Findus. Nur die infantilsten Gemüter werden daran einen Heidenspaß haben.
+Wirtschaft Filmindustrie  Italiens Pixar-Boys wollen die Welt erobern
+Wer an Animationsfilme denkt, hat Pixar im Kopf. Doch auf dem Feld tummeln sich mehr Studios. Vor allem Italiener versuchen, den Markt aufzuwirbeln. Die ersten Filme sind tatsächlich sehenswert.
+Film „Tarzan 3D“  Tarzan, ein Opfer der vaterlosen Gesellschaft
+Der neue „Tarzan 3D“ aus Deutschland hat eigentlich alles, um ein besonderes Kinospektakel zu bieten. Und doch wirkt er leider wie ein überlanger Werbetrailer für einen Film, den es nicht gibt.
+Medien Action-Serie „Arrow“  Ein Robin Hood rächt heutzutage im Kapuzenpulli
+Warum der Trend bei Superhelden zum Milliardär geht: Als Comic war „Arrow“ ein Rächer mit Pfeil, Bogen und antikapitalistischem Furor. In der TV-Serie hadert er nun trotz Sportwagen mit der Welt.
+Film Daddeln beim Film  Bringt euer iPad doch einfach mit ins Kino!
+Ein Disney-Experiment in Amerika: Spiele spielen, während der Film läuft. Mit der kleinen Meerjungfrau Arielle geht es los. Es könnte sich um einen Akt von Selbstmord aus Angst vor dem Tod handeln.
+Film „Planes“  Das lustige Sprühflugzeug und die Gabelstaplerin
+Die Vermenschlichung von Maschinen bei Disney-Pixar begann mit „Cars“. In dem Animationsfilm „Planes“ sind nun die Flugzeuge an der Reihe. Dusty Crophopper sprüht, grinst und schmollt.
+Film Kulturkampf in Japan  Der Mann, der die Kamikaze-Flugzeuge erfand
+Anime-Gott Hayao Miyazaki hat nach fünf Jahren endlich einen neuen Film gedreht. „Der Wind erhebt sich“ handelt von dem Flugzeugbauer Jiro Horikoshi und hat eine riesige Kontroverse ausgelöst
+Leute Neuer Batman  Kinofans starten Online-Petition gegen Ben Affleck
+Seit bekannt ist, dass Ben Affleck der neue Batman wird, spottet die Welt über den Star. Auch Regisseure und Comic-Autoren lachen. Dabei passt das Fledermaus-Outfit wunderbar zu Afflecks Karriere.
+Film Trickfilmstudio  In den Schatzkammern von Walt Disney
+Ein ganzer Flur allein für „Bambi“: Die „Animation Research Library“ verwahrt die gesamte Geschichte der Walt-Disney-Studios – 64 Millionen Raritäten. Ein Besuch an einem bislang verschlossenen Ort.
+Wirtschaft Aardman Animation  Die Knetmänner wollen noch einen Oscar gewinnen
+Mit Filmfiguren wie Shaun dem Schaf und Wallace & Gromit haben die Schulfreunde David Sproxton und Peter Lord eines der wichtigsten Trickfilm-Studios aufgebaut. Jetzt arbeiten sie am nächsten Erfolg.
+München München  Superhelden und Sexverbrecher beim Comicfestival
+Das Münchner Comicfestival begibt sich auch auf die dunkle Seite des Genres. Fünf Tage lang geben sich Top-Zeichner wie Rags Morales, Robert Crumb und Gilbert Shelton die Klinke in die Hand.
+Film Fantasy-Epos  „Epic“ – Feinste Animation mit Riefenstahl-Kitsch
+Ein Fantasy-Epos in Miniaturformat ist der Film „Epic“. Es geht um den Kampf des Lebens gegen den Tod. Tricktechnisch ist der Film für die Blue Sky Studios ein großer Schritt nach vorn.
+Film Kino-Kritik  Was „Iron Man 3“ mit Shakespeare gemeinsam hat
+„Iron Man“ kommt von Ironie: Im dritten Teil der Kinoreihe bekämpft Robert Downey Jr. seinen Erzfeind und die Geister der eigenen Vergangenheit. Und schlägt jeden, der seine Witze nicht versteht.
+Medien Kultserie  Biene Maja – lieber Magermodel als Germanin
+Maja und ihr Willi sind in der neuen 3D-Fassung dünner. Aber friedlich ist sie zum Glück immer noch. Dabei entstammt sie dem Hirn eines Autors, der seine Bücher mit „Heil Hitler“ signierte.
+Film „Die Croods“  Von den Höhlenmenschen kann jeder noch was lernen
+Das 3D-Steinzeitabenteuer „Die Croods“ macht Laune – auch wenn die Handlung der rasanten Screwball-Action-Komödie rund um eine prähistorische Familie nicht immer ganz plausibel ist.
+Film The Croods  In der Steinzeit ist die Hölle los
+Alles so schön bunt hier: Der neue DreamWorks-3D-Zeichentrickfilm erzählt die Geschichte der „Croods“, einer lustigen Familie von Höhlenmenschen, die in die Moderne aufbrechen müssen.
+Film „Ralph reicht’s“  Nach dreißig Jahren endlich auch mal der Held sein
+Was tun Computerspielfiguren eigentlich, wenn die Konsole ausgeschaltet ist? Der neue, witzige Disney-Weihnachtsfilm verrät es uns: Sie quatschen in der Pixel-Pausenhalle und wechseln die Rollen.
+Literatur Graphic Novel  Walter Moers und die Rückkehr des Killerpinguins
+Pinguine sind im Kino kuschelige Sympathieträger. Doch Walter Moers wusste schon immer, dass jeder dieser Vögel ein potenzieller drogenkranker Killer ist. Davon handelt sein Comic „Der Pinguin“.
+Video Kino-Trailer  Monster-Urlaub im Hotel Transsilvanien
+Das Hotel Transsilvanien ist die exquisiteste Adresse für Monster aller Art, denn es ist ein 5-Sterne-Hotel, das von Graf Dracula betrieben wird.
+Film Kino  So verführerisch wie das Casino von Monte Carlo
+In „Madagascar 3“ wollen Löwe, Zebra, Giraffe und Nilpferd nach Monaco. Was als Trip quer durch Europa geplant ist, entwickelt sich zu einer dramatischen Flucht – nicht nur vor den Ordnungshütern.
+Hamburg Ice-Age-Show  Otto Waalkes verliert sein Herz an ein Faultier
+Eine "Ice-Age"-Show will Film und Bühne verbinden. Es wird eine Mischung aus Filmen, Akrobatik, Eiskunstlauf und Tanz. Wie in den Filmen auch leiht Otto Waalkes dem Faultier "Sid" seine Stimme
+Film "Ice Age 4"  So wird Weltuntergang zum schönen Familienspaß
+"Ice Age" ist die erfolgreichste Animations-Saga unserer Zeit. Jetzt startet der vierte Teil. Richard Kämmerlings hat ihn vorab gesehen – mit seinem Sohn und genug Popcorn für eine Mammutherde.
+Film Animation  Piraten drängen jetzt auch in die Royal Society
+Sie kapern die "HMS Beagle" mit Darwin an Bord. Was dann geschieht, zeigt der 3D-Film "Die Piraten!" aus den Aardman Studios. Die fußlahme Story könnte das Ende der Piratenherrlichkeit einläuten.
+Wirtschaft Kino-Flop  Disney schießt 200 Millionen Dollar auf den Mars
+Der Mars bringt Disney kein Glück: Das Fantasy-Epos "John Carter" wird statt eines Megahits zu einem der teuersten Hollywood-Flops.
+Reise Familien auf Reisen  So wird der Flughafen zum Kinderspielplatz
+Fliegen ist für Kinder eine spannende Angelegenheit. Doch die nervige Zeit ist die zwischen der Kofferabgabe und dem Einstieg in den Flieger. Wie sich Kinder an deutschen Airports die Zeit bis zum Abflug verkürzen können, verraten wir hier.
