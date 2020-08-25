@@ -5,6 +5,7 @@ Each python file contains parsers for different web-sites. There may be parsers 
 
 ### Parsers with keywords extraction
 beobachter_ch
+bild_de
 faz_net
 merkur_de
 tz_de
