@@ -1,3 +1,6 @@
+Basteln am smarten Heim
+Fenster mit Sensoren, Türklingel mit Video: Das gut ausgestattete Smart Home stößt an Grenzen. Dann sind clevere Helfer gefragt.
+Apple  ISIN_US0378331005  Apple Inc. TV  Sensor  Türklingel  Homekit  iPad
 Eine schlaue Nuss
 Das Mainzer Unternehmen Datamate fertigt noble und leise Rechner mit Nussholz-Gehäuse. Was technische Ausstattung und Konfiguration betrifft, soll man aus dem Vollen schöpfen können.
 Datamate Buddy  Notebook  Windows 10
@@ -1513,7 +1516,7 @@ Moppelig wirkt das neue Notebook XPS 13 von Dell. Es ist aber eines der besten N
 Dell  Hungerkur  Notebook  Xps  Windows 10
 Wenn einen der Drache nicht richtig versteht
 Die Spracherkennung Dragon 6 für den Mac läuft noch immer unrund. Die Software ist schlank. Aber sie ist schlecht ins Betriebssystem integriert.
-MS-Word  Apple  ISIN_US0378331005  Drache  Integration  Dragon  Mac
+MS-Word  Apple  ISIN_US0378331005  Drache  Integration  Dragon  Spracherkennung
 Lohnt sich eine Handy-Versicherung?
 Ob Bruch, Diebstahl, Wasser oder Leichtsinn: Die Angebote, das Smartphone dagegen zu versichern, sind sehr unterschiedlich. Fallstricke sind manchmal gut versteckt.
 Apple  ISIN_US0378331005  Deutsche Telekom  ISIN_DE0005557508  Vodafone  ISIN_GB00B16GWD56  Handyversicherung

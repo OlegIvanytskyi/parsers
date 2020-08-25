@@ -1,3 +1,18 @@
+V8 statt W12
+Nach vier Jahren Marktpräsenz überarbeitet Bentley das SUV Bentayga. Innen wird alles noch feiner, das Heck wurde komplett umgestaltet. Der angekündigte Plug-in-Hybrid soll der sparsamste Bentley aller Zeiten werden.
+Bentley Frankfurt  Audi  Porsche  GT  Probefahrt  Marktpräsenz  Auto
+Für Mercedes reine Formsache
+Die E-Klasse ist jetzt wieder in überzeugender Form. Für eine erste Probefahrt wählten wir den neuen Vierzylinder-Benziner. Um 48.000 Euro beginnt derzeit die Preisliste.
+Mercedes-Benz  Otto group  Formsache  Rennserie  Reifen  Probefahrt  Formel 1
+Zwei Schiffe zum Preis von einem
+Crossover überall, auch in der Yachtwelt: Cranchi kreuzt mit dem Modell T36 Gleiter und Trawler. Das verspricht ein sportliches Fahrverhalten, viel Platz im Salon und hervorragenden Wetterschutz gleichermaßen.
+Enjoy Yachting  Dieter Wanke  Volvo  ISIN_SE0000115420  Traditionswerft  Werft  Fahrbericht
+Von schlechter Laune keine Spur
+Chinesische Hersteller drängen auf den deutschen und den europäischen Markt. Für September ist nun der Aiways U5 angekündigt. Bestellt wird im Netz.
+VW  Land Rover  Ladeinfrastruktur  Elektroauto  Kritikpunkt  Probefahrt  Renault ZOE
+Was auf’m Kasten
+GLA, GLB, GLC, GLE, GLS und G. Langsam verliert man die Übersicht im SUV-Angebot von Mercedes-Benz. Der jüngste Spross ist der GLB, und er hat einige bemerkenswerte Tugenden.
+G. Langsam  Mercedes-Benz  Maybach  GLS  Fahrbericht
 So eine Enttäuschung
 Sie möchten mal einen harten Verriss lesen? Wir geben uns Mühe – und fahren schon mal mit der F 900 XR von BMW los.
 BMW  ISIN_DE0005190003  Yamaha  Loncin  Motorrad  Motorradzeitschrift  Fahrbericht
@@ -2615,7 +2630,7 @@ Offen, Elektro, Benzin: BMW bringt den i8 als Roadster. Bei einer ersten Probefa
 BMW  ISIN_DE0005190003  Roadster  Probefahrt
 Mitten im Vespennest
 Im Piaggio-Museum von Pontedera wird der Vespa gehuldigt. Aber nicht nur ihr.
-
+Piaggio  Pontedera
 Gibt es den grünen Verbrennungsmotor?
 Trotz der ambitionierten Elektroauto-Pläne ist der schnelle Ausstieg aus dem Verbrennungsmotor unrealistisch. Benzin oder auch Diesel lässt sich künstlich herstellen, ohne dass die CO2-Bilanz belastet wird.
 Audi  Verbrennungsmotor  Kraftstoff
@@ -2985,18 +3000,3 @@ Dacia Duster  Louis Schweitzer  SC Automobile Dacia SA  Renault  ISIN_FR00001319
 Die schweigende Mehrheit
 VW setzt zwar auf Elektromobilität, arbeitet aber mit Nachdruck an der Zukunft des Verbrennungsmotors. Der ist noch lange nicht tot. Und er wird immer sauberer.
 Volkswagen  ISIN_DE0007664039  Diesel  VW  Werkshalle  Verbrennungsmotor
-Es wurde auch Zett
-Spät, aber eindrucksvoll entert Kawasaki mit der Z 900 RS den Retro-Markt. Sie ist ein ungeheuer dynamisches Paket – und soll mitnichten nostalgische Nudel sein.
-Motorräder  Fahrbericht  Kawasaki
-Wie schützt man das Auto vor Hackern?
-Das elektronische Netzwerk im Auto von heute stammt aus den 1990er Jahren. Für das automatisierte Fahren ist es nicht sicher genug. Neue Ideen aus Israel sollen für Abhilfe sorgen.
-Nissan  Robert Bosch  Mittelklassewagen  Auto  Fahrzeug  Elektronik  Tel Aviv
-Die Limousine, die ein Sportwagen ist
-Eine erste Probefahrt mit dem BMW M5 der sechsten Generation. Erstmals kommt der kräftigste 5er mit Allrad. Der Motor ist ein V8 mit 600 PS.
-BMW  ISIN_DE0005190003  Sportwagen  Probefahrt  BMW M5
-Groß und artig
-Nie ist der VW Polo dem ewigen Bestseller näher gerückt als in seiner jüngsten Ausgabe. Er ist der golfigste Polo aller Zeiten und verlässt das Kleinwagensegment. Aber Ungemach rollt an.
-Volkswagen  ISIN_DE0007664039  Samsonite  VW  Zulaßungsstatistik  Fahrbericht  Seat Ibiza
-Auf dem Highway ist der Bär los
-Kanada feierte dieses Jahr seinen 150. Geburtstag, der Alaska Highway den 75. Nächstes Jahr wird sich der Trubel etwas gelegt haben, jetzt gilt es, seine Tour für den nächsten Sommer zu planen.
-Holger Bergold  CRD International  Bär  Roadtrip  Kanada  Alaska  Deutschland
