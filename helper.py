@@ -26,4 +26,4 @@ def write_to_file(arr, category, website):
             f.write((line + '\n'))
             
     print(f'{len(arr)} lines of {category} category have been scraped from {website}\n')
-    print('______________________________________________________________________________')
+    print('______________________________________________________________________________\n\n')
